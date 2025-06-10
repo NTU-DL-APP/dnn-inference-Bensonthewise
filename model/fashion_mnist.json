@@ -17,8 +17,8 @@
     ]
   },
   {
-    "name": "dropout",
-    "type": "Dropout",
+    "name": "batch_normalization",
+    "type": "BatchNormalization",
     "config": {},
     "weights": []
   },
@@ -34,8 +34,8 @@
     ]
   },
   {
-    "name": "dropout_1",
-    "type": "Dropout",
+    "name": "batch_normalization_1",
+    "type": "BatchNormalization",
     "config": {},
     "weights": []
   },
@@ -51,8 +51,8 @@
     ]
   },
   {
-    "name": "dropout_2",
-    "type": "Dropout",
+    "name": "batch_normalization_2",
+    "type": "BatchNormalization",
     "config": {},
     "weights": []
   },
